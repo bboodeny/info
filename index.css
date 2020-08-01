@@ -21,6 +21,12 @@ body{
     color: white;
 }
 
+.intro {
+font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    text-align: center;
+}
+
 /*Nav bar styles*/
 
 .navbar{
