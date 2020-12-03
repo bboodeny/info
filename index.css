@@ -2,7 +2,7 @@
 /*General styles*/
 
 body{
-    background-image: src="./images/bg.png";
+    background-image: url(./images/bg.png);
     background-repeat: no-repeat;
     background-attachment: fixed;  
     background-size: cover;
